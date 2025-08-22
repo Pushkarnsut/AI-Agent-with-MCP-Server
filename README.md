@@ -73,7 +73,6 @@ mcpserver/
 - The agent will call the appropriate tool and respond with the result.
 
 ## Security
-- **Never commit your `.env` files or API secrets to GitHub.**
 - `.gitignore` is set up to exclude sensitive files.
 
 ## License
